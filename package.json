@@ -1,6 +1,6 @@
 {
-  "name": "openpay",
-  "description": "Openpay library",
+  "name": "openpay-co",
+  "description": "TEST ONLY - Openpay library",
   "version": "2.0.2",
   "dependencies": {
     "underscore": "^1.13.6",
