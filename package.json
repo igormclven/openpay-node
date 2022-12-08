@@ -1,19 +1,19 @@
 {
   "name": "openpay",
   "description": "Openpay library",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "dependencies": {
-    "underscore": "1.5.x",
-    "urllib": "^2.36.1"
+    "underscore": "^1.13.6",
+    "urllib": "^2.40.0"
   },
   "main": "lib/openpay.js",
   "devDependencies": {
-    "mocha": "^7.0.1"
+    "mocha": "^7.2.0"
   },
   "scripts": {
     "test": "mocha"
   },
   "engines": {
-    "node": ">=0.6.x"
+    "node": ">= 12.0.0"
   }
 }
